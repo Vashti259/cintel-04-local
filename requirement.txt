@@ -1,9 +1,9 @@
-faicons
-palmerpenguins
-pandas
-pyarrow
-plotly
-seaborn
-shiny
-shinylive
-shinywidgets
+pip install faicons
+pip install palmerpenguins
+pip install pandas 
+pip install pyarrow
+pip install plotly
+pip install seaborn 
+pip install shiny
+pip install shinylive
+pip install shinywidgets
